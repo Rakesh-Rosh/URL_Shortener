@@ -3,7 +3,6 @@ import pyshorteners
 
 root = Tk()
 root.title('Rakesh Rosh - Link Shortener')
-# root.iconbitmap('c:/gui/codemy.ico')
 root.geometry("500x500")
 
 def shorten():
